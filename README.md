@@ -29,10 +29,3 @@ Policy contract, one intent form, one liquid-staking or simulated LST route back
 ## Main risk
 
 May become another yield optimizer. Keep focus on constrained intent execution, not APY dashboard.
-
-## Docs
-
-- [PRD](PRD.md)
-- [Build Plan](BUILD_PLAN.md)
-- [Demo and Submission](DEMO_AND_SUBMISSION.md)
-- [Risk Register](RISK_REGISTER.md)

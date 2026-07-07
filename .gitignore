@@ -29,3 +29,9 @@ contract/.builder*
 
 # Keys (never commit)
 *.pem
+
+# Internal planning docs (not for public repo)
+PRD.md
+BUILD_PLAN.md
+DEMO_AND_SUBMISSION.md
+RISK_REGISTER.md
