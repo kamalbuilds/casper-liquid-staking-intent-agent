@@ -1,15 +1,31 @@
-# Dependencies
-node_modules/
-dist/
-.next/
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Environment secrets
 .env
 .env.local
 .env.*.local
 
-# Rust / Odra
-target/
-wasm/
+# Agent (Node)
+agent/node_modules/
+agent/dist/
 
-# OS / IDE
-.DS_Store
-*.log
+# Web (Next.js)
+web/node_modules/
+web/.next/
+web/out/
+web/.vercel/
+web/*.tsbuildinfo
+
+# Contract (Rust / Odra)
+contract/target/
+contract/wasm/
+contract/Cargo.lock
+contract/.env
+contract/.backend*
+contract/.builder*
+
+# Keys (never commit)
+*.pem
