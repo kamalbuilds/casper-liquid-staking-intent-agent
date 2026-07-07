@@ -1,0 +1,11 @@
+{
+  "agent": "0199c6c70c88b8edd07a1fc2f63ee8b8bf0e4d5b8f",
+  "maxAmount": "10000000000",
+  "maxAmountLabel": "10 CSPR",
+  "allowedTarget": "02025eb40c970e6819f4ffa4c47b4a45c9c9f4d21e",
+  "allowedTargetLabel": "Liquid Staking Token (csLiquid)",
+  "expiry": 2147483647,
+  "expiryLabel": "Never (timestamp: 2^31-1)",
+  "revoked": false,
+  "description": "Demo policy: allow up to 10 CSPR stakes to the csLiquid LST contract"
+}
