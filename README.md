@@ -4,8 +4,6 @@
 
 An AI agent that interprets natural-language staking intents, proposes bounded liquid-staking routes on Casper, and executes only when an on-chain Odra policy contract permits it. Built with the Odra framework for Casper 2.0.
 
-**Repository:** [github.com/kamalbuilds/casper-liquid-staking-intent-agent](https://github.com/kamalbuilds/casper-liquid-staking-intent-agent)
-
 ---
 
 ## Table of Contents
